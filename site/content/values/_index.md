@@ -15,7 +15,8 @@ values:
       *Single-origin* coffee is **coffee** grown _within_ a single known
       geographic origin. Sometimes, this is a single farm or a specific
       collection of beans from a single country. The name of the coffee is then
-      usually the place it was grown to whatever degree available.
+      usually the place it was grown to whatever degree
+      [available](https://www.google.com).
   - heading: Sustainable farming
     imageUrl: /img/about-sustainable-farming.jpg
     text: >
